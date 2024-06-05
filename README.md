@@ -1,2 +1,2 @@
 # House-Prediction-
-House Prediction using Linear Regression Model
+In the house price prediction project using machine learning, a model was built to estimate property values based on factors like location, size, and amenities. Historical housing price data was used to train the model, employing algorithms to identify patterns and make accurate predictions. Data preprocessing and feature engineering were essential steps in optimizing model performance. This project offers a useful tool for both homebuyers and real estate professionals to gauge property values effectively.
